@@ -1,3 +1,3 @@
 # walt.id public roadmap
 
-Hosted at: https://github.com/orgs/walt-id/projects/10
+Hosted at: https://github.com/orgs/walt-id/projects/10/views/4
