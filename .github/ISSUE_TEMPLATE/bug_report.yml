@@ -4,7 +4,7 @@ labels: "type: bug"
 body:
 - type: markdown
   attributes:
-    value: Before raising an issue, please search for existing issues to avoid creating duplicates. For questions, please use [Discord](https://www.gitpod.io/chat).
+    value: Before raising an issue, please search for existing issues to avoid creating duplicates.
 - type: textarea
   id: bug-description
   attributes:
@@ -19,12 +19,6 @@ body:
     description: Describe the steps to reproduce the issue
   validations:
     required: true
-- type: input
-  id: workspace
-  attributes:
-    label: Workspace affected
-    description: Does this issue affect a specific workspace?
-    placeholder: e.g. kumquat-goose-831fpnxf
 - type: textarea
   id: expected-behavior
   attributes:
@@ -34,7 +28,7 @@ body:
   id: example-repository
   attributes:
     label: Example repository
-    description: If possible, please [share a Gitpod workspace snapshot](https://www.gitpod.io/docs/sharing-and-collaboration#sharing-snapshots) or create a [minimal, reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) of the bug and link it here in the bug report.
+    description: If possible, please a link it here in the bug report.
 - type: textarea
   id: anything-else
   attributes:
