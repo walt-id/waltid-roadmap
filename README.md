@@ -1,1 +1,1 @@
-Visit our public roadmap [on notion](https://walt-id.notion.site/fcde1687baab42378b3047d4a22eeaca?v=1140dd17c17b4726a70cc1465d20866d&pvs=4)
+Visit our public roadmap [here]([https://walt-id.notion.site/fcde1687baab42378b3047d4a22eeaca?v=1140dd17c17b4726a70cc1465d20866d&pvs=4](https://walt-id.notion.site/Feature-List-walt-id-95f6741fe34747b5a1d3a3d68b07a6f1))
